@@ -1,10 +1,14 @@
 //
-//  ZDStickerView.swift
+// Created by Seonghyun Kim on 5/29/13.
+// Copyright (c) 2013 scipi. All rights reserved.
+//
+//
+//  SPGripViewBorderView.swift
 //  StickerView
 //
-//  Created by alimoor on 1/8/17.
-//  Copyright © 2017 alimoor. All rights reserved.
+//  update by Mohammed alimoor alimoor on 1/8/17.
 //
+
 
 import Foundation
 import UIKit
